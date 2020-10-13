@@ -1,0 +1,8 @@
+Changes in version --131020 (first commit after forking):
+
+- Removed unused parameters and functions
+- Merged parts of game logic for usual and special targets and made it into a function
+- Fixed special target not showing up
+- Fixed getting score for invisible balls
+- Removing dead balls from ball lists
+- Tweaked an appearance of special target
