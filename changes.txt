@@ -6,3 +6,12 @@ Changes in version --131020 (first commit after forking):
 - Fixed getting score for invisible balls
 - Removing dead balls from ball lists
 - Tweaked an appearance of special target
+
+Changes in version --141020:
+
+Features:
+- Added the scoreboard
+- Added support for varying special target marks
+Debug:
+- Fixed white ball not living for how long the lifetime settings dictate
+- Changing FPS should no longer affect ball speed (in px/s) and other settings like that
